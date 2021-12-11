@@ -1,0 +1,15 @@
+.gambar{
+    width: 200px;
+}
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
+.btn {
+    padding: 16px 36px;
+    border-radius: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ffffff;
+}.color {
+    background-color: #5454D4;
+}
